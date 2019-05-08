@@ -1,6 +1,6 @@
 {
   "data": [
-    {
+       {
       "id": 1,
       "name": "Nike Sneakers",
       "category": {
@@ -32,6 +32,460 @@
           "color": "Red",
           "size": 44,
           "price": 1200
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Adidas Running Shoes",
+      "category": {
+        "id": 1,
+        "name": "Casuals",
+        "slug": "casuals"
+      },
+      "variants": [
+        {
+          "id": 5,
+          "color": "White",
+          "size": 40,
+          "price": 2000
+        },
+        {
+          "id": 6,
+          "color": "Black",
+          "size": 40,
+          "price": 2000
+        },
+        {
+          "id": 7,
+          "color": "White",
+          "size": 44,
+          "price": 2200
+        },
+        {
+          "id": 8,
+          "color": "Red",
+          "size": 44,
+          "price": 2200
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Spykar Denim",
+      "category": {
+        "id": 2,
+        "name": "Jeans",
+        "slug": "jeans"
+      },
+      "variants": [
+        {
+          "id": 9,
+          "color": "Blue",
+          "size": 30,
+          "price": 1200
+        },
+        {
+          "id": 10,
+          "color": "Black",
+          "size": 32,
+          "price": 1400
+        },
+        {
+          "id": 11,
+          "color": "Blue",
+          "size": 34,
+          "price": 1400
+        },
+        {
+          "id": 12,
+          "color": "Blue",
+          "size": 36,
+          "price": 1500
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Lee Cotton Jeans",
+      "category": {
+        "id": 2,
+        "name": "Jeans",
+        "slug": "jeans"
+      },
+      "variants": [
+        {
+          "id": 13,
+          "color": "Blue",
+          "size": 30,
+          "price": 1500
+        },
+        {
+          "id": 14,
+          "color": "Black",
+          "size": 32,
+          "price": 1500
+        },
+        {
+          "id": 15,
+          "color": "White",
+          "size": 34,
+          "price": 1700
+        },
+        {
+          "id": 16,
+          "color": "Black",
+          "size": 36,
+          "price": 1800
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Polo Collar T-Shirt",
+      "category": {
+        "id": 7,
+        "name": "T-Shirts",
+        "slug": "t-shirts"
+      },
+      "variants": [
+        {
+          "id": 17,
+          "color": "Blue",
+          "size": 42,
+          "price": 2000
+        },
+        {
+          "id": 18,
+          "color": "Red",
+          "size": 42,
+          "price": 1800
+        },
+        {
+          "id": 19,
+          "color": "White",
+          "size": 44,
+          "price": 1800
+        },
+        {
+          "id": 20,
+          "color": "Red",
+          "size": 44,
+          "price": 2000
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Adidas Nylon",
+      "category": {
+        "id": 7,
+        "name": "T-Shirts",
+        "slug": "t-shirts"
+      },
+      "variants": [
+        {
+          "id": 21,
+          "color": "White",
+          "size": 40,
+          "price": 2000
+        },
+        {
+          "id": 22,
+          "color": "Yellow",
+          "size": 40,
+          "price": 2000
+        },
+        {
+          "id": 23,
+          "color": "Green",
+          "size": 44,
+          "price": 2200
+        },
+        {
+          "id": 24,
+          "color": "Red",
+          "size": 44,
+          "price": 2200
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Comfort Tracks",
+      "category": {
+        "id": 8,
+        "name": "Tracks & Trousers",
+        "slug": "tracks-trousers"
+      },
+      "variants": [
+        {
+          "id": 25,
+          "color": "Blue",
+          "size": 42,
+          "price": 2000
+        },
+        {
+          "id": 26,
+          "color": "Red",
+          "size": 42,
+          "price": 1800
+        },
+        {
+          "id": 27,
+          "color": "White",
+          "size": 44,
+          "price": 1800
+        },
+        {
+          "id": 28,
+          "color": "Red",
+          "size": 44,
+          "price": 2000
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Adidas Trousers",
+      "category": {
+        "id": 8,
+        "name": "Tracks & Trousers",
+        "slug": "tracks-trousers"
+      },
+      "variants": [
+        {
+          "id": 29,
+          "color": "White",
+          "size": 40,
+          "price": 2000
+        },
+        {
+          "id": 30,
+          "color": "Yellow",
+          "size": 40,
+          "price": 2000
+        },
+        {
+          "id": 31,
+          "color": "Green",
+          "size": 44,
+          "price": 2200
+        },
+        {
+          "id": 32,
+          "color": "Red",
+          "size": 44,
+          "price": 2200
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Bata Lace up Shoes",
+      "category": {
+        "id": 9,
+        "name": "Formals",
+        "slug": "formals"
+      },
+      "variants": [
+        {
+          "id": 33,
+          "color": "Black",
+          "size": 42,
+          "price": 2000
+        },
+        {
+          "id": 34,
+          "color": "Brown",
+          "size": 42,
+          "price": 2000
+        },
+        {
+          "id": 35,
+          "color": "Black",
+          "size": 44,
+          "price": 1800
+        },
+        {
+          "id": 36,
+          "color": "Brown",
+          "size": 44,
+          "price": 1800
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Franco Leather",
+      "category": {
+        "id": 9,
+        "name": "Formals",
+        "slug": "formals"
+      },
+      "variants": [
+        {
+          "id": 37,
+          "color": "Black",
+          "size": 40,
+          "price": 2000
+        },
+        {
+          "id": 38,
+          "color": "Brown",
+          "size": 40,
+          "price": 2000
+        },
+        {
+          "id": 39,
+          "color": "Black",
+          "size": 44,
+          "price": 2200
+        },
+        {
+          "id": 40,
+          "color": "Brown",
+          "size": 44,
+          "price": 2200
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Wrangler Checked Shirt",
+      "category": {
+        "id": 10,
+        "name": "Shirts",
+        "slug": "shirts"
+      },
+      "variants": [
+        {
+          "id": 41,
+          "color": "Blue",
+          "size": 42,
+          "price": 2000
+        },
+        {
+          "id": 42,
+          "color": "Red",
+          "size": 42,
+          "price": 2000
+        },
+        {
+          "id": 43,
+          "color": "Black",
+          "size": 44,
+          "price": 1800
+        },
+        {
+          "id": 44,
+          "color": "White",
+          "size": 44,
+          "price": 1800
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Printed Shirt",
+      "category": {
+        "id": 10,
+        "name": "Shirts",
+        "slug": "shirts"
+      },
+      "variants": [
+        {
+          "id": 45,
+          "color": "Blue",
+          "size": 40,
+          "price": 2000
+        },
+        {
+          "id": 46,
+          "color": "Black",
+          "size": 40,
+          "price": 2000
+        },
+        {
+          "id": 47,
+          "color": "Red",
+          "size": 38,
+          "price": 2200
+        },
+        {
+          "id": 48,
+          "color": "Brown",
+          "size": 38,
+          "price": 2200
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Iphone 6S",
+      "category": {
+        "id": 14,
+        "name": "Apple",
+        "slug": "apple"
+      },
+      "variants": [
+        {
+          "id": 49,
+          "color": "Silver",
+          "size": null,
+          "price": 60000
+        },
+        {
+          "id": 50,
+          "color": "Golden",
+          "size": null,
+          "price": 62000
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Iphone 7",
+      "category": {
+        "id": 14,
+        "name": "Apple",
+        "slug": "apple"
+      },
+      "variants": [
+        {
+          "id": 51,
+          "color": "Black",
+          "size": null,
+          "price": 70000
+        },
+        {
+          "id": 52,
+          "color": "Silver",
+          "size": null,
+          "price": 72000
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Galaxy S7 Edge",
+      "category": {
+        "id": 15,
+        "name": "Samsung",
+        "slug": "samsung"
+      },
+      "variants": [
+        {
+          "id": 53,
+          "color": "Black",
+          "size": null,
+          "price": 50000
+        },
+        {
+          "id": 54,
+          "color": "White",
+          "size": null,
+          "price": 50000
         }
       ]
     }
